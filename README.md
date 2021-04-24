@@ -1,4 +1,4 @@
-# Bitirme-Projesi-2-Karar-Agaclari
+# Bitirme Projesi 2 - Karar Ağaçları
 ![K3_BP2_1316130047_Page_01](https://user-images.githubusercontent.com/62393500/115961359-c9500a80-a51e-11eb-9c9a-dc21fa213ae1.png)
 ![K3_BP2_1316130047_Page_02](https://user-images.githubusercontent.com/62393500/115961360-ca813780-a51e-11eb-9277-a2f14f1d0162.png)
 ![K3_BP2_1316130047_Page_03](https://user-images.githubusercontent.com/62393500/115961361-cb19ce00-a51e-11eb-9cb7-0fccad42705c.png)
